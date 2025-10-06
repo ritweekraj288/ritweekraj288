@@ -42,9 +42,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ritweekraj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritweekraj&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritweekraj&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ritweekraj288&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ritweekraj288&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritweekraj288&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
